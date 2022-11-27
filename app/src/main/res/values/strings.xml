@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Calculatrice Boursier</string>
+    <!--3rd fragment-->
+    <string name="premierPrix">Premier Cour</string>
+    <string name="secondPrix">Deuxieme Cour</string>
+    <string name="premierQte">Premiere Qté</string>
+    <string name="secondQte">Deuxieme Qté</string>
+    <string name="courPond">Coût Moyen Pondéré</string>
+
+    <!--2nd fragment-->
+    <string name="prix">Cour</string>
+    <string name="pourcentage">%</string>
+    <string name="plusHaut">+HAUT</string>
+    <string name="plusBas">+BAS</string>
+
+    <!--1st fragment-->
+    <string name="zero">0</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="multiplication">×</string>
+    <string name="division">÷</string>
+    <string name="backspace"> </string>
+    <string name="display"> </string>
+    <string name="clear">C</string>
+    <string name="parant">( )</string>
+    <string name="power">^</string>
+    <string name="equal">=</string>
+    <string name="comma">.</string>
+    <string name="sign">+/-</string>
+    <string name="qte">Qté</string>
+    <string name="buy">COUR ACHAT</string>
+    <string name="sell">COUR VENTE</string>
+    <string name="Profit"> </string>
+    <string name="Total"> </string>
+    <string name="quantity">Qté</string>
+    <string name="buyprice">COUR ACHAT</string>
+    <string name="sellprice">COUR VENTE</string>
+    <string name="totalb">TOTAL ACHAT</string>
+    <string name="totala">T + P</string>
+    <string name="profittext">+/- VALUE</string>
+    <string name="title_activity_nav_menu">NavMenu</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Calculatrice Boursier</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Calcule des taxes</string>
+    <string name="menu_gallery">Calcule de seuil HAUT/BAS</string>
+    <string name="menu_slideshow">Moyenne Pondéré</string>
+    <string name="calcule">Calcule</string>
+    <string name="market_menu_item">Marche</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+</resources>
